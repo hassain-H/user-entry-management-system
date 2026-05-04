@@ -1,0 +1,13 @@
+# Frontend (React)
+node_modules/
+dist/
+build/
+
+# Backend (Spring Boot)
+target/
+
+# Common
+.env
+.vscode/
+.idea/
+.DS_Store
