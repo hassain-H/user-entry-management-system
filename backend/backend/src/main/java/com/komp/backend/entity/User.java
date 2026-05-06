@@ -16,9 +16,7 @@ public class User {
     private String userName;
     private int userAge;
     private String userPlace;
-
-    // GETTERS & SETTERS
-
+	
     public Long getId() {
         return id;
     }
