@@ -26,7 +26,7 @@ public class UserService {
         repo.deleteById(id);
     }
 
-    // ✅ FIXED UPDATE METHOD
+
     public User updateUser(Long id, User user) {
 
         User existingUser = repo.findById(id)
